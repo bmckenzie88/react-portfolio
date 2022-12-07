@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.fc497156.css",
-    "main.js": "/react-portfolio/static/js/main.b6f9adf3.js",
-    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
-    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
-    "static/media/led-wall.jpg": "/react-portfolio/static/media/led-wall.c905c2d12b5c9b7485ff.jpg",
-    "static/media/calculator.jpg": "/react-portfolio/static/media/calculator.bb6f4d8d88b3569cb0e0.jpg",
-    "static/media/surf-report.jpg": "/react-portfolio/static/media/surf-report.6490cdfef5afd0538437.jpg",
-    "static/media/pastel-puzzels.jpg": "/react-portfolio/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
+    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/react-portfolio/static/js/main.ce8cc2e6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.fc497156.css.map": "/react-portfolio/static/css/main.fc497156.css.map",
-    "main.b6f9adf3.js.map": "/react-portfolio/static/js/main.b6f9adf3.js.map"
+    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.ce8cc2e6.js.map": "/react-portfolio/static/js/main.ce8cc2e6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc497156.css",
-    "static/js/main.b6f9adf3.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ce8cc2e6.js"
   ]
 }
