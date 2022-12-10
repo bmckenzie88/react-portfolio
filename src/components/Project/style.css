@@ -1,0 +1,17 @@
+.card {
+    max-width: 750px;
+    border: none !important;
+}
+
+.project-git {
+    margin: 0 !important;
+    justify-content: end !important;
+}
+
+.project-img {
+align-self: center;
+}
+
+#project-pic {
+    border-radius: 0% !important;
+}

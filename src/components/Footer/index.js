@@ -3,7 +3,7 @@ import "./style.css"
 
 export default function Footer() {
   return (
-    <div className="footer">
+    <div className="footer" id="footer">
       <h3 className="text-center">©Bryce McKenzie</h3>
       <h1 className="text-center">
         <a href="https://github.com/bmckenzie88" target="_blank" rel="noreferrer">
@@ -11,11 +11,11 @@ export default function Footer() {
         </a>
          |
          <a href="mailto:brycelmckenzie@gmail.com" target="_blank" rel="noreferrer">
-         <i class="bi bi-envelope-at-fill"></i>
+         <i className="bi bi-envelope-at-fill"></i>
          </a> 
          |
          <a href="https://www.linkedin.com/in/bryce-lopez-mckenzie-a6047086/" target="_blank" rel="noreferrer">
-         <i class="bi bi-linkedin"></i>
+         <i className="bi bi-linkedin"></i>
          </a>
       </h1>
     </div>

@@ -2,9 +2,14 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 nav {
-    background-color: rgb(191, 49, 0);
+    background-color: rgb(62, 86, 65);
 }
-.navbar-brand {
+
+div .navbar {
+    padding: 0 !important;
+}
+.navbar-brand, .navbar a {
+    color: white;
     padding:10px
 }
 
@@ -12,4 +17,35 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Condensed', sans-serif;
     margin-top: 20px;
     margin-bottom: 10px;
+}
+
+#dog-icon {
+    max-width: 30px;
+}
+
+.moose-card {
+    margin-top: 5% !important;
+}
+#moose-pic {
+    max-width: 15% !important;
+}
+
+#portfolio-pic {
+    max-width:15% ;
+}
+
+ul {
+    list-style: none !important;
+}
+
+.project-container {
+    padding-bottom: 10%;
+}
+
+.contact-form {
+    margin-bottom: 20% !important;
+}
+
+.skills-list {
+    margin-bottom: 15% !important;
 }
