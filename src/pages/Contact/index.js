@@ -4,6 +4,7 @@ export default function Contact() {
   return (
     <div className="container contact-form mb-5">
       <form className="d-flex flex-column g-3 needs-validation was-validated" noValidate="">
+        <h2>Send me a message!</h2>
         <div className="col-md-4 mb-3">
           <label className="form-label">
             Name
