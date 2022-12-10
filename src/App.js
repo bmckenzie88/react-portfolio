@@ -11,7 +11,7 @@ import "./App.css"
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/react-portfolio">
         <Header />
         <Routes>
           <Route path="/" element={<AboutMe />} />
