@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.ce8cc2e6.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.ce8cc2e6.js.map": "/react-portfolio/static/js/main.ce8cc2e6.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/bmckenzie88.github.io/react-portfolio/static/css/main.cb5e5e23.css",
+    "main.js": "/bmckenzie88.github.io/react-portfolio/static/js/main.322b2e31.js",
+    "static/media/events.png": "/bmckenzie88.github.io/react-portfolio/static/media/events.17b544032173faf55e97.png",
+    "static/media/suyapic.jpeg": "/bmckenzie88.github.io/react-portfolio/static/media/suyapic.0d87c5a6577f3ef14a3b.jpeg",
+    "static/media/portfoliopic.jpeg": "/bmckenzie88.github.io/react-portfolio/static/media/portfoliopic.25709c88ed0df7661641.jpeg",
+    "static/media/moose.jpeg": "/bmckenzie88.github.io/react-portfolio/static/media/moose.a03c688292e276d213e9.jpeg",
+    "static/media/under-construction.png": "/bmckenzie88.github.io/react-portfolio/static/media/under-construction.78364aed439126fc6753.png",
+    "index.html": "/bmckenzie88.github.io/react-portfolio/index.html",
+    "main.cb5e5e23.css.map": "/bmckenzie88.github.io/react-portfolio/static/css/main.cb5e5e23.css.map",
+    "main.322b2e31.js.map": "/bmckenzie88.github.io/react-portfolio/static/js/main.322b2e31.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ce8cc2e6.js"
+    "static/css/main.cb5e5e23.css",
+    "static/js/main.322b2e31.js"
   ]
 }
