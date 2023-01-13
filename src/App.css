@@ -47,5 +47,8 @@ ul {
 }
 
 .skills-list {
+    margin-bottom: 2% !important;
+}
+.resume-download {
     margin-bottom: 15% !important;
 }
