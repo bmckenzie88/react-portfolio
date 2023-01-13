@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.cb5e5e23.css",
-    "main.js": "/react-portfolio/static/js/main.1b1b4443.js",
+    "main.css": "/react-portfolio/static/css/main.d077f987.css",
+    "main.js": "/react-portfolio/static/js/main.a1e45435.js",
     "static/media/events.png": "/react-portfolio/static/media/events.17b544032173faf55e97.png",
     "static/media/suyapic.jpeg": "/react-portfolio/static/media/suyapic.0d87c5a6577f3ef14a3b.jpeg",
     "static/media/portfoliopic.jpeg": "/react-portfolio/static/media/portfoliopic.25709c88ed0df7661641.jpeg",
     "static/media/moose.jpeg": "/react-portfolio/static/media/moose.a03c688292e276d213e9.jpeg",
     "static/media/under-construction.png": "/react-portfolio/static/media/under-construction.78364aed439126fc6753.png",
+    "static/media/Bryce_McKenzie_Resume.pdf": "/react-portfolio/static/media/Bryce_McKenzie_Resume.bb87fc289fd7e2679eb0.pdf",
     "index.html": "/react-portfolio/index.html",
-    "main.cb5e5e23.css.map": "/react-portfolio/static/css/main.cb5e5e23.css.map",
-    "main.1b1b4443.js.map": "/react-portfolio/static/js/main.1b1b4443.js.map"
+    "main.d077f987.css.map": "/react-portfolio/static/css/main.d077f987.css.map",
+    "main.a1e45435.js.map": "/react-portfolio/static/js/main.a1e45435.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5e5e23.css",
-    "static/js/main.1b1b4443.js"
+    "static/css/main.d077f987.css",
+    "static/js/main.a1e45435.js"
   ]
 }
