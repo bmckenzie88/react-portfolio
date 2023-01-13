@@ -8,7 +8,7 @@ export default function Moose() {
       src={moosepic}
       className="img-responsive align-center"
       id="moose-pic"
-      alt="dog picture"
+      alt="dog"
     ></img>
     <h3>This is Moose</h3>
     <p className="summary">He's a rescue from Mexico and was voted the world's best boy by GQ in 2022. When he's not chasing squirrels or chewing sticks, he enjoys swimming and hiking. </p>

@@ -7,7 +7,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg text-size">
       <div className="navbar container-fluid">
         <Link to="/moose" className="navbar-brand">
-          <img src={dogpic} id="dog-icon"></img>
+          <img src={dogpic} alt="dog icon" id="dog-icon"></img>
         </Link>
         <Link
           className="navbar-toggler"
