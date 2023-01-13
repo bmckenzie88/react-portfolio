@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d077f987.css",
-    "main.js": "/static/js/main.260a205c.js",
+    "main.js": "/static/js/main.2eec610b.js",
     "static/media/events.png": "/static/media/events.17b544032173faf55e97.png",
     "static/media/suyapic.jpeg": "/static/media/suyapic.0d87c5a6577f3ef14a3b.jpeg",
     "static/media/portfoliopic.jpeg": "/static/media/portfoliopic.25709c88ed0df7661641.jpeg",
@@ -10,10 +10,10 @@
     "static/media/Bryce_McKenzie_Resume.pdf": "/static/media/Bryce_McKenzie_Resume.bb87fc289fd7e2679eb0.pdf",
     "index.html": "/index.html",
     "main.d077f987.css.map": "/static/css/main.d077f987.css.map",
-    "main.260a205c.js.map": "/static/js/main.260a205c.js.map"
+    "main.2eec610b.js.map": "/static/js/main.2eec610b.js.map"
   },
   "entrypoints": [
     "static/css/main.d077f987.css",
-    "static/js/main.260a205c.js"
+    "static/js/main.2eec610b.js"
   ]
 }
